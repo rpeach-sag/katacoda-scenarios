@@ -10,6 +10,7 @@
     }],
     "intro": {
       "text": "intro.md",
+      "code": "courseBase.sh",
       "credits": ""
     },
     "finish": {
@@ -21,6 +22,6 @@
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n"
   },
   "backend": {
-    "imageid": "bash"
+    "imageid": "docker"
   }
 }
