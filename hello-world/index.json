@@ -18,7 +18,7 @@
     }
   },
   "assets": {
-    "host1": [
+    "client": [
       {"file": "*", "target":"/home/"}
     ]
   },
