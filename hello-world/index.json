@@ -19,7 +19,7 @@
   },
   "assets": {
     "host01": [
-      {"file": "*", "target":"/home/"}
+      {"file": "main.mon", "target":"/home/"}
     ]
   },
   "environment": {
