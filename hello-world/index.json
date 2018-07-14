@@ -19,11 +19,13 @@
     },
 	"assets": {
       "host01": [
-		{"file": "main.mon", "target":"~/apama-project/"},
-		{"file": "initialization.yaml", "target":"~/apama-project/"}
+		{"file": "*", "target":"~/apama-project/"}
 	  ]
 	}
   },
+  "files": [
+    "main.mon"
+  ],
   "environment": {
     "uilayout": "editor-terminal",
     "uieditorpath": "~/apama-project",
