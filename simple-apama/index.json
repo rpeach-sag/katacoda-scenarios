@@ -1,0 +1,37 @@
+{
+  "title": "Hello World Scenario",
+  "description": "Your First Scenario",
+  "difficulty": "beginner",
+  "authenticated": false,
+  "time": "2 minutes",
+  "details": {
+    "steps": [{
+      "title": "Step 1 - Run Command",
+      "text": "step1.md"
+    }],
+    "intro": {
+      "text": "intro.md",
+      "code": "setup.sh",
+      "credits": ""
+    },
+    "finish": {
+      "text": "finish.md"
+    },
+	"assets": {
+      "host01": [
+		{"file": "*", "target":"~/apama-project/"}
+	  ]
+	}
+  },
+  "files": [
+    "main.mon"
+  ],
+  "environment": {
+    "uilayout": "editor-terminal",
+    "uieditorpath": "~/apama-project",
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
