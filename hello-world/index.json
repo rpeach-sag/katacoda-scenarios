@@ -20,7 +20,7 @@
   },
   "assets": {
     "client": [
-      {"file": "basicProject/*", "target":"~/"}
+      {"file": "*", "target":"root/"}
     ]
   },
   "environment": {
