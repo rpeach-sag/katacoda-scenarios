@@ -1,5 +1,0 @@
-monitor MyFirstMonitor {
-	action onload() {
-		log "Hello World";
-	}
-}

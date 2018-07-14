@@ -11,7 +11,7 @@
     }],
     "intro": {
       "text": "intro.md",
-      "code": "setup.sh",
+      "courseData": "setup.sh",
       "credits": ""
     },
     "finish": {
@@ -19,7 +19,7 @@
     },
 	"assets": {
       "host01": [
-		{"file": "*", "target":"~/apama-project/"}
+		{"file": "main.mon", "target":"~/apama-project/"}
 	  ]
 	}
   },
