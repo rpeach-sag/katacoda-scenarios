@@ -11,7 +11,6 @@
     }],
     "intro": {
       "text": "intro.md",
-      "code": "setup.sh",
       "credits": ""
     },
     "finish": {
@@ -20,14 +19,15 @@
   },
   "assets": {
     "host1": [
-      {"file": "*", "target":"/root/"}
+      {"file": "*", "target":"/home/"}
     ]
   },
   "environment": {
     "uilayout": "editor-terminal",
+	 "uieditorpath": "/home/",
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n"
   },
   "backend": {
-    "imageid": "docker-direct"
+    "imageid": "ubuntu"
   }
 }
