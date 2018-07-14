@@ -19,7 +19,8 @@
     },
 	"assets": {
       "host01": [
-		{"file": "*", "target":"~/apama-project/"}
+		{"file": "main.mon", "target":"~/apama-project/"},
+		{"file": "initialization.yaml", "target":"~/apama-project/"}
 	  ]
 	}
   },
