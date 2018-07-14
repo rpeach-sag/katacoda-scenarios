@@ -2,6 +2,7 @@
   "title": "Hello World Scenario",
   "description": "Your First Scenario",
   "difficulty": "beginner",
+  "authenticated": false,
   "time": "2 minutes",
   "details": {
     "steps": [{
@@ -19,7 +20,7 @@
   },
   "assets": {
     "client": [
-      {"file": "basicProject/*", "target":"/home/scrapbook"}
+      {"file": "basicProject/*", "target":"~/"}
     ]
   },
   "environment": {
@@ -27,6 +28,6 @@
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n"
   },
   "backend": {
-    "imageid": "bash"
+    "imageid": "ubuntu"
   }
 }
