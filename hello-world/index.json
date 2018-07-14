@@ -18,8 +18,8 @@
     }
   },
   "assets": {
-    "client": [
-      {"file": "helloWorld.mon", "target":"/home/"}
+    "host01": [
+      {"file": "*", "target":"/home/"}
     ]
   },
   "environment": {
