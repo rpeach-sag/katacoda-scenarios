@@ -1,1 +1,1 @@
-which correlator && echo "done"
+[ -d /root/softwareag/apamawork_* ] && echo "done"
