@@ -2,7 +2,6 @@
   "title": "Getting Started with Apama",
   "description": "Your First Scenario",
   "difficulty": "beginner",
-  "authenticated": false,
   "time": "2 minutes",
   "details": {
     "steps": [{
@@ -24,7 +23,8 @@
     },
 	"assets": {
       "host01": [
-		{"file": "*", "target":"/root/apama-project/"}
+		{"file": "main.mon", "target": "/root/apama-project/"},
+		{"file": "initialization.yaml", "target": "/root/apama-project/"}
 	  ]
 	}
   },
