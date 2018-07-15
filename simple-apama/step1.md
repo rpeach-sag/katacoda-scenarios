@@ -1,8 +1,10 @@
-The Apama environment consists of the correlator (the Apama language runtime) and various command line tools for interacting with the correlator.
+The Apama environment consists of:
+- **The Correlator** - the Apama language runtime 
+- **Command line tools** - for interacting with the correlator.
 
-## Source the Environment
+## Sourcing the Environment
 
-To make the environment available for use on the command line we need to source the `apama_env`:
+To make all of the tools available for use on the command line we need to source the `apama_env`:
 
 `. /opt/softwareag/Apama/bin/apama_env`{{execute}}
 
