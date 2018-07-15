@@ -9,6 +9,9 @@
       "title": "Step 1 - Setting up the Environment",
       "text": "step1.md",
 	  "verify":"step1-verify.sh"
+    },{
+      "title": "Step 2 - Running an Application",
+      "text": "step2.md"
     }],
     "intro": {
       "text": "intro.md",

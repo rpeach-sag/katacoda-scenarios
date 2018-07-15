@@ -1,1 +1,1 @@
-Welcome to your first Katacoda Scenario!
+A brief introduction to running an Apama application from the command line.
