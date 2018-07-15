@@ -1,1 +1,1 @@
-[ -d /root/softwareag/apamawork_* ] && echo "done"
+ssh root@host01 "[ -d /root/softwareag/apamawork_* ]" && echo "done"
