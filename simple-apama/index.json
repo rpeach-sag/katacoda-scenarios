@@ -22,19 +22,16 @@
       "text": "finish.md"
     },
 	"assets": {
-      "client": [
+      "host01": [
 		{"file": "*", "target": "/root/apama-project"}
 	  ]
 	}
   },
-  "files": [
-    "main.mon"
-  ],
   "environment": {
     "uilayout": "editor-terminal",
     "uieditorpath": "/root/apama-project"
   },
   "backend": {
-    "imageid": "bash"
+    "imageid": "ubuntu"
   }
 }
