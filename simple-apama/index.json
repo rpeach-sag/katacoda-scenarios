@@ -1,12 +1,12 @@
 {
-  "title": "Hello World Scenario",
+  "title": "Getting Started with Apama",
   "description": "Your First Scenario",
   "difficulty": "beginner",
   "authenticated": false,
   "time": "2 minutes",
   "details": {
     "steps": [{
-      "title": "Step 1 - Run Command",
+      "title": "Step 1 - Setup the Environment",
       "text": "step1.md"
     }],
     "intro": {
