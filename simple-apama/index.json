@@ -18,12 +18,13 @@
     },
 	"assets": {
       "host01": [
-		{"file": "*", "target":"~/apama-project/"}
+		{"file": "*", "target":"/root/apama-project/"}
 	  ]
 	}
   },
   "environment": {
     "uilayout": "editor-terminal",
+    "uieditorpath": "/root/apama-project",
     "uimessage1": "\u001b[32mYour first Apama project\u001b[m\r\n"
   },
   "backend": {
