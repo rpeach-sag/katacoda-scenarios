@@ -6,8 +6,10 @@ The Apama environment consists of:
 
 To make all of the tools available for use on the command line we need to source the `apama_env`:
 
-`. /opt/softwareag/Apama/bin/apama_env`{{execute}}
+```. /opt/softwareag/Apama/bin/apama_env```{{execute}}
 
 The Windows `cmd` equivalent to this is:
 
-`C:\SoftwareAG\Apama\bin\apama_env`
+```
+C:\SoftwareAG\Apama\bin\apama_env
+```
