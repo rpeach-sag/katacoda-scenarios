@@ -21,4 +21,4 @@ After running that command you should see the correlator start and then the line
 
 This is our application logging to the console.
 
-You can use <kbd>CTRL</kbd>+<kbd>C</kbd> ``{{execute}} to stop the correlator.
+You can use <kbd>CTRL</kbd>+<kbd>C</kbd> to stop the correlator.

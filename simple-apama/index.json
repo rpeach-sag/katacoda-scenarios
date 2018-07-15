@@ -22,9 +22,8 @@
       "text": "finish.md"
     },
 	"assets": {
-      "client": [
-		{"file": "main.mon", "target": "~/apama-project/"},
-		{"file": "initialization.yaml", "target": "~/apama-project/"}
+      "host01": [
+		{"file": "*", "target": "/root/apama-project"}
 	  ]
 	}
   },
