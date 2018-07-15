@@ -23,8 +23,8 @@
     },
 	"assets": {
       "client": [
-		{"file": "main.mon", "target": "/root/apama-project/"},
-		{"file": "initialization.yaml", "target": "/root/apama-project/"}
+		{"file": "main.mon", "target": "~/apama-project/"},
+		{"file": "initialization.yaml", "target": "~/apama-project/"}
 	  ]
 	}
   },
