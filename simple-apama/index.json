@@ -22,7 +22,7 @@
       "text": "finish.md"
     },
 	"assets": {
-      "host01": [
+      "client": [
 		{"file": "*", "target": "/root/apama-project"}
 	  ]
 	}
@@ -35,6 +35,6 @@
     "uieditorpath": "/root/apama-project"
   },
   "backend": {
-    "imageid": "ubuntu"
+    "imageid": "bash"
   }
 }
