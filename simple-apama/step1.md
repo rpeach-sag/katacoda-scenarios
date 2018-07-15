@@ -14,4 +14,4 @@ The Windows `cmd` equivalent to this is:
 
 ```
 C:\SoftwareAG\Apama\bin\apama_env
-```
+```{{copy}}
