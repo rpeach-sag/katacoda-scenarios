@@ -12,7 +12,6 @@
     "intro": {
       "text": "intro.md",
 	  "courseData": "setup.sh",
-	  "code": "set-env.sh",
       "credits": ""
     },
     "finish": {
@@ -24,9 +23,6 @@
 	  ]
 	}
   },
-  "files": [
-	"main.mon"
-  ],
   "environment": {
     "uilayout": "editor-terminal",
     "uieditorpath": "/root/apama-project",
