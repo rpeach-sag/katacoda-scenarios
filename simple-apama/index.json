@@ -6,8 +6,9 @@
   "time": "2 minutes",
   "details": {
     "steps": [{
-      "title": "Step 1 - Setup the Environment",
-      "text": "step1.md"
+      "title": "Step 1 - Setting up the Environment",
+      "text": "step1.md",
+	  "verify":"step1-verify.sh"
     }],
     "intro": {
       "text": "intro.md",
