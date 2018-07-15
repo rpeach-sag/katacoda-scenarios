@@ -1,2 +1,3 @@
+JAVA_HOME=/jre
 cd /root/apama-project
-clear
+clear && printf '\u001b[32mApama is installing...\u001b[m\r\n'
