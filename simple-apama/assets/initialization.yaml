@@ -2,4 +2,4 @@
 correlator:
    initialization:
       list:
-         - ${PARENT_DIR}/helloWorld.mon
+         - ${PARENT_DIR}/main.mon
