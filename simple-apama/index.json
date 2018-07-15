@@ -27,7 +27,7 @@
   "environment": {
     "uilayout": "editor-terminal",
     "uieditorpath": "/root/apama-project",
-    "uimessage1": "\u001b[32mYour first Apama project\u001b[m\r\n"
+    "uimessage1": "\u001b[32mPlease wait for Apama to be installed...\u001b[m\r\n"
   },
   "backend": {
     "imageid": "ubuntu"
