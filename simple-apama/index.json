@@ -11,6 +11,8 @@
     }],
     "intro": {
       "text": "intro.md",
+	  "code": "setup.sh",
+	  "code": "set-env.sh",
       "credits": ""
     },
     "finish": {
@@ -22,6 +24,9 @@
 	  ]
 	}
   },
+  "files": [
+	"main.mon"
+  ],
   "environment": {
     "uilayout": "editor-terminal",
     "uieditorpath": "/root/apama-project",
